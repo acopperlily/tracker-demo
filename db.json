@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Wash butt",
+      "other": "no-show",
+      "day": "Monday",
+      "reminder": true
+    },
+    {
+      "text": "Feed the kitty",
+      "day": "erryday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "meow",
+      "day": "yes",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Yeet",
+      "day": "time",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
